@@ -28,6 +28,3 @@ For any questions or feedback, please feel free to contact us at [spardosi12@gma
 
 We thank everyone involved in the development and testing phases of this project for their valuable contributions.
 
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
