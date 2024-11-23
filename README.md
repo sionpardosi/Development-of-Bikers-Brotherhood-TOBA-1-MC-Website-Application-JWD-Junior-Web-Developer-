@@ -1,5 +1,16 @@
 # Bikers Brotherhood TOBA 1% MC Website Application Development (JWD Junior Web Developer)
 #DIGITALENT AND KOMINFO -> JUNIOR WEB DEVELOPER
+
+### <summary><strong>Tools:</strong></summary>
+<p>
+    <img src="https://img.shields.io/badge/Language-PHP-blue?logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framework-Native-000000?logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Platform-Linux-lightgrey?logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tool-XAMPP-F0E2A4?logo=xampp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Version%20Control-Git-%23000?logo=git&logoColor=white" />
+</p>
+
 ## Project Overview
 
 This project focuses on developing a website application for Bikers Brotherhood TOBA 1% MC using PHP native technologies, emphasizing performance and flexibility. It includes essential features such as company profile, history, vision, mission, product/service offerings, client list, contact information, articles, and events. Each section is meticulously designed to provide comprehensive insights into the club's identity and offerings.
